@@ -5,8 +5,6 @@ import model.entities.Vehicle;
 import model.services.BrazilTaxService;
 import model.services.RentalService;
 
-import java.sql.SQLOutput;
-import java.sql.Time;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
